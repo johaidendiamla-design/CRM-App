@@ -1,3 +1,2 @@
 #Example Markdown File
-An example markdown for demonstration purpose.
 Johaiden M. Diamla.
